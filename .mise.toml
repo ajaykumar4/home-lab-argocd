@@ -19,7 +19,7 @@ run = [
 [tools]
 "python" = "3.13"
 "pipx:makejinja" = "2.7.2"
-"aqua:argoproj/argo-cd" = "2.14.7"
+"aqua:argoproj/argo-cd" = "2.14.8"
 "aqua:budimanjojo/talhelper" = "3.0.21"
 "aqua:cilium/cilium-cli" = "0.18.2"
 "aqua:cli/cli" = "2.69.0"
